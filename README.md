@@ -2,4 +2,4 @@
  Repository for MIREA mobile development homework
 
 done:
-[first]()
+[first](https://github.com/ventusfortis/AndroidHomework/tree/main/firstPractic)
