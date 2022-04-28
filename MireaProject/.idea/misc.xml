@@ -3,6 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/arkom/AndroidStudioProjects/AndroidHomework/MireaProject/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/arkom/AndroidStudioProjects/AndroidHomework/MireaProject/app/src/main/res/layout/fragment_blank_browser.xml" value="0.2" />
+        <entry key="..\:/Users/arkom/AndroidStudioProjects/AndroidHomework/MireaProject/app/src/main/res/layout/fragment_blank_calculator.xml" value="0.264" />
+        <entry key="..\:/Users/arkom/AndroidStudioProjects/AndroidHomework/MireaProject/app/src/main/res/layout/fragment_player.xml" value="0.264" />
+        <entry key="..\:/Users/arkom/AndroidStudioProjects/AndroidHomework/MireaProject/app/src/main/res/menu/activity_main_drawer.xml" value="0.264" />
+        <entry key="..\:/Users/arkom/AndroidStudioProjects/AndroidHomework/MireaProject/app/src/main/res/menu/main.xml" value="0.264" />
         <entry key="..\:/Users/arkom/AndroidStudioProjects/MireaProject/app/src/main/res/layout/content_main.xml" value="0.264" />
         <entry key="..\:/Users/arkom/AndroidStudioProjects/MireaProject/app/src/main/res/layout/fragment_blank_browser.xml" value="0.264" />
         <entry key="..\:/Users/arkom/AndroidStudioProjects/MireaProject/app/src/main/res/layout/fragment_blank_calculator.xml" value="0.26055237102657636" />

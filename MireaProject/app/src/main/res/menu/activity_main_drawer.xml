@@ -16,5 +16,9 @@
             android:icon="@android:drawable/ic_dialog_dialer"
             android:title="Calculator"
             android:id="@+id/nav_calc"/>
+        <item
+            android:id="@+id/nav_player"
+            android:icon="@android:drawable/ic_media_play"
+            android:title="Player" />
     </group>
 </menu>

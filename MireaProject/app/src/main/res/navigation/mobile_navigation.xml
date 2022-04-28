@@ -20,5 +20,10 @@
         android:name="ru.mirea.komissarchuk.mireaproject.BlankFragmentCalculator"
         android:label="fragment_blank_calculator"
         tools:layout="@layout/fragment_blank_calculator" />
+    <fragment
+        android:id="@+id/nav_player"
+        android:name="ru.mirea.komissarchuk.mireaproject.BlackFragmentPlayer"
+        android:label="fragment_player"
+        tools:layout="@layout/fragment_player" />
 
 </navigation>
