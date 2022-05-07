@@ -10,3 +10,4 @@ done:
     - [MireaProject](https://github.com/ventusfortis/AndroidHomework/tree/main/MireaProject)
 - [fourth](https://github.com/ventusfortis/AndroidHomework/tree/main/practice4)
 - [fifth](https://github.com/ventusfortis/AndroidHomework/tree/main/practice5)
+- [sixth](https://github.com/ventusfortis/AndroidHomework/tree/main/practice6)
