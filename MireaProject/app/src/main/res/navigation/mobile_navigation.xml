@@ -35,5 +35,15 @@
         android:name="ru.mirea.komissarchuk.mireaproject.AudioRecorder"
         android:label="fragment_audio_recorder"
         tools:layout="@layout/fragment_audio_recorder" />
+    <fragment
+        android:id="@+id/nav_settings"
+        android:name="ru.mirea.komissarchuk.mireaproject.Settings"
+        android:label="fragment_settings"
+        tools:layout="@layout/fragment_settings" />
+    <fragment
+        android:id="@+id/nav_story"
+        android:name="ru.mirea.komissarchuk.mireaproject.ui.story.StoryFragment"
+        android:label="fragment_story"
+        tools:layout="@layout/fragment_audio_recorder" />
 
 </navigation>
