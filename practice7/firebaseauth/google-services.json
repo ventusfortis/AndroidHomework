@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "294277047489",
+    "project_id": "practice7-e0dac",
+    "storage_bucket": "practice7-e0dac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294277047489:android:eb25968b66f870d140e040",
+        "android_client_info": {
+          "package_name": "ru.mirea.komissarchuk.practice7"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294277047489-vqsau9fpupnpq4s92nfql5d4vebjigq1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXH8GYt6Dp2dd7cPeIMBT3XqkBkpmqxdI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "294277047489-vqsau9fpupnpq4s92nfql5d4vebjigq1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
