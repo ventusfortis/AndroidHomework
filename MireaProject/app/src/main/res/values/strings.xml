@@ -31,4 +31,7 @@
     <string name="hint_email">Email</string>
     <string name="hint_password">password</string>
     <string name="desc_firebase_lockup">Firebase</string>
+    <string name="unknown_error_message">Произошла неизвестная ошибка!</string>
+    <string name="remote_error_message">Произошла ошибка на стороне сервера!</string>
+    <string name="network_error_message">Нет доступа к интернету!</string>
 </resources>

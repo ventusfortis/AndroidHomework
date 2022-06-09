@@ -45,5 +45,10 @@
         android:name="ru.mirea.komissarchuk.mireaproject.ui.story.StoryFragment"
         android:label="fragment_story"
         tools:layout="@layout/fragment_audio_recorder" />
+    <fragment
+        android:id="@+id/nav_map"
+        android:name="ru.mirea.komissarchuk.mireaproject.Map"
+        android:label="fragment_map"
+        tools:layout="@layout/fragment_map" />
 
 </navigation>

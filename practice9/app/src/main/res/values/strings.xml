@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">practice9</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="API_key">AIzaSyBQoHuoa8l9rkpCitfADoP3vdZdANZEF8c</string>
+</resources>
